@@ -1,0 +1,43 @@
+2017-06-20 21:06 - scrapex.core - core - __init__() - INFO: start
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/window/current/size {"width": 1920, "windowHandle": "current", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "height": 1080}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/url {"url": "http://www.receita.fazenda.gov.br/pessoajuridica/cnpj/cnpjreva/Cnpjreva_Solicitacao2.asp", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0"}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element {"using": "xpath", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "value": "//img[@id='imgCaptcha']"}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: GET http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element/0.47410633276090564-1/location {"sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "id": "0.47410633276090564-1"}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: GET http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element/0.47410633276090564-1/size {"sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "id": "0.47410633276090564-1"}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: GET http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/screenshot {"sessionId": "bd9c731aa9609a6b849dff527c84fdc0"}
+2017-06-20 21:06 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:06 - PIL.PngImagePlugin - PngImagePlugin - call() - DEBUG: STREAM 'IHDR' 16 13
+2017-06-20 21:06 - PIL.PngImagePlugin - PngImagePlugin - call() - DEBUG: STREAM 'IDAT' 41 8192
+2017-06-20 21:06 - urllib3.connectionpool - connectionpool - _new_conn() - DEBUG: Starting new HTTP connection (1): 2captcha.com
+2017-06-20 21:06 - urllib3.connectionpool - connectionpool - _make_request() - DEBUG: http://2captcha.com:80 "POST /in.php HTTP/1.1" 200 None
+2017-06-20 21:07 - urllib3.connectionpool - connectionpool - _new_conn() - DEBUG: Starting new HTTP connection (1): 2captcha.com
+2017-06-20 21:07 - urllib3.connectionpool - connectionpool - _make_request() - DEBUG: http://2captcha.com:80 "GET /res.php?key=3089fd2a0105fc43e44769486dc1e9c1&action=get&id=3341938049 HTTP/1.1" 200 None
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element {"using": "xpath", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "value": "//input[@id=\"cnpj\"]"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element {"using": "id", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "value": "cnpj"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element/0.47410633276090564-2/value {"text": "05264539000171", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "id": "0.47410633276090564-2", "value": ["0", "5", "2", "6", "4", "5", "3", "9", "0", "0", "0", "1", "7", "1"]}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element {"using": "id", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "value": "txtTexto_captcha_serpro_gov_br"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element/0.47410633276090564-3/value {"text": "pdtdig", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "id": "0.47410633276090564-3", "value": ["p", "d", "t", "d", "i", "g"]}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element {"using": "id", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "value": "submit1"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element/0.47410633276090564-4/click {"sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "id": "0.47410633276090564-4"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/element {"using": "xpath", "sessionId": "bd9c731aa9609a6b849dff527c84fdc0", "value": "//span[@class='Rodape']"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: GET http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0/source {"sessionId": "bd9c731aa9609a6b849dff527c84fdc0"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: DELETE http://127.0.0.1:55362/session/bd9c731aa9609a6b849dff527c84fdc0 {"sessionId": "bd9c731aa9609a6b849dff527c84fdc0"}
+2017-06-20 21:07 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-06-20 21:07 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-06-20 21:07 - scrapex.core - core - __del__() - INFO: time elapsed: 30.7 seconds

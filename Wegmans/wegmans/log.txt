@@ -1,0 +1,57 @@
+2017-06-08 12:57 - scrapex.core - core - __init__() - INFO: start
+2017-06-08 12:57 - scrapy.utils.log - log - log_scrapy_info() - INFO: Scrapy 1.4.0 started (bot: wegmans)
+2017-06-08 12:57 - scrapy.utils.log - log - log_scrapy_info() - INFO: Overridden settings: {'NEWSPIDER_MODULE': 'wegmans.spiders', 'SPIDER_MODULES': ['wegmans.spiders'], 'BOT_NAME': 'wegmans'}
+2017-06-08 12:57 - scrapy.middleware - middleware - from_settings() - INFO: Enabled extensions:
+['scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.corestats.CoreStats']
+2017-06-08 12:57 - scrapy.middleware - middleware - from_settings() - INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2017-06-08 12:57 - scrapy.middleware - middleware - from_settings() - INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2017-06-08 12:57 - scrapy.middleware - middleware - from_settings() - INFO: Enabled item pipelines:
+[]
+2017-06-08 12:57 - scrapy.core.engine - engine - open_spider() - INFO: Spider opened
+2017-06-08 12:57 - scrapy.extensions.logstats - logstats - log() - INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2017-06-08 12:57 - scrapy.extensions.telnet - telnet - start_listening() - DEBUG: Telnet console listening on 127.0.0.1:6023
+2017-06-08 12:57 - scrapy.core.engine - engine - _on_success() - DEBUG: Crawled (200) <GET https://www.wegmans.com/products.html> (referer: None)
+2017-06-08 12:57 - urllib3.connectionpool - connectionpool - _new_conn() - DEBUG: Starting new HTTPS connection (1): www.wegmans.com
+2017-06-08 12:57 - urllib3.connectionpool - connectionpool - _make_request() - DEBUG: https://www.wegmans.com:443 "GET /products/baby-essentials/_jcr_content.department.baby-essentials.json HTTP/1.1" 200 774
+2017-06-08 12:57 - scrapy.core.engine - engine - close_spider() - INFO: Closing spider (finished)
+2017-06-08 12:57 - scrapy.statscollectors - statscollectors - close_spider() - INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 226,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 17861,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2017, 6, 8, 16, 57, 44, 290553),
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 7,
+ 'memusage/max': 72093696,
+ 'memusage/startup': 72093696,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2017, 6, 8, 16, 57, 40, 756139)}
+2017-06-08 12:57 - scrapy.core.engine - engine - <lambda>() - INFO: Spider closed (finished)
+2017-06-08 12:57 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-06-08 12:57 - scrapex.core - core - __del__() - INFO: time elapsed: 3.77 seconds

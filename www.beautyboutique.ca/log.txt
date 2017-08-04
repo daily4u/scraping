@@ -1,0 +1,146 @@
+2017-07-14 09:57 - scrapex.core - core - __init__() - INFO: start
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://www.beautyboutique.ca/Categories/Makeup/c/MakeUp
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: response_headers:
+ Server: Apache
+RTSS: 1-2-73
+Content-Language: en
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block
+Content-Type: text/html;charset=UTF-8
+Expires: Sat, 14 Jan 2017 20:43:14 GMT
+Cache-Control: private, max-age=0, proxy-revalidate, no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Encoding: gzip
+Date: Fri, 14 Jul 2017 13:57:30 GMT
+Transfer-Encoding:  chunked
+Connection: close
+Connection: Transfer-Encoding
+Set-Cookie: SSLB=1; path=/; domain=.beautyboutique.ca
+Set-Cookie: SSID=CABPWh04AAAAAADJzWhZNvNCEsnNaFkBAAAAAAAAAAAAyc1oWQDs5DtwAAF1cw0Ayc1oWQEAM20AARQfDQDJzWhZAQCybgABwUwNAMnNaFkBAMNZAAHjRAsAyc1oWQEA; path=/; domain=.beautyboutique.ca; expires=Sat, 14-Jul-2018 13:57:29 GMT
+Set-Cookie: SSSC=382.G6442625530431992630.1|22979.738531:27955.859924:28338.871617:28731.881525; path=/; domain=.beautyboutique.ca
+Set-Cookie: SSRT=yc1oWQABAQ; path=/; domain=.beautyboutique.ca; expires=Sat, 14-Jul-2018 13:57:29 GMT
+Set-Cookie: ADRUM_BTa="R:0|g:81af4e54-b473-4997-9b0b-ff1944ae1e5b"; Version=1; Max-Age=30; Expires=Fri, 14-Jul-2017 13:57:59 GMT; Path=/; Secure;HttpOnly;Secure
+Set-Cookie: ADRUM_BTa="R:0|g:81af4e54-b473-4997-9b0b-ff1944ae1e5b|n:lblw_afe7f4d6-4637-4e11-95bb-0a169ff97498"; Version=1; Max-Age=30; Expires=Fri, 14-Jul-2017 13:57:59 GMT; Path=/; Secure;HttpOnly;Secure
+Set-Cookie: NSC_JO3wuk1dempkwehdezhntcbhlydmwdM=ffffffff0960441a45525d5f4f58455e445a4a4216cb;expires=Fri, 14-Jul-2017 14:27:18 GMT;path=/;secure;httponly
+Set-Cookie: JSESSIONID=39EBA897897E21F7DC05ECB940E01896.sdmprodapp5; Path=/; Secure; HttpOnly;HttpOnly;Secure
+Set-Cookie: JSESSIONID=39EBA897897E21F7DC05ECB940E01896.sdmprodapp5; Path=/; Secure; HttpOnly;HttpOnly;Secure
+Set-Cookie: ADRUM_BT1="R:0|i:292707"; Version=1; Max-Age=30; Expires=Fri, 14-Jul-2017 13:57:59 GMT; Path=/; Secure;HttpOnly;Secure
+Set-Cookie: ADRUM_BTs="R:0|s:f"; Version=1; Max-Age=30; Expires=Fri, 14-Jul-2017 13:57:59 GMT; Path=/; Secure;HttpOnly;Secure
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://api.bazaarvoice.com/data/batch.json?passkey=tsuy5y50qf1vuapwn42ip8f8h&apiversion=5.5&displaycode=12438-en_ca&resource.q0=products&filter.q0=id:eq:607710046931&stats.q0=reviews&filteredstats.q0=reviews&filter_reviews.q0=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q0=contentlocale:eq:en_CA,en_US&resource.q1=reviews&filter.q1=isratingsonly:eq:false&filter.q1=productid:eq:607710046931&filter.q1=contentlocale:eq:en_CA,en_US&sort.q1=relevancy:a1&stats.q1=reviews&filteredstats.q1=reviews&include.q1=authors,products,comments&filter_reviews.q1=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q1=contentlocale:eq:en_CA,en_US&filter_comments.q1=contentlocale:eq:en_CA,en_US&limit.q1=8&offset.q1=0&limit_comments.q1=3&resource.q2=reviews&filter.q2=productid:eq:607710046931&filter.q2=contentlocale:eq:en_CA,en_US&limit.q2=1&resource.q3=reviews&filter.q3=productid:eq:607710046931&filter.q3=isratingsonly:eq:false&filter.q3=issyndicated:eq:false&filter.q3=rating:gt:3&filter.q3=totalpositivefeedbackcount:gte:3&filter.q3=contentlocale:eq:en_CA,en_US&sort.q3=totalpositivefeedbackcount:desc&include.q3=authors,reviews,products&filter_reviews.q3=contentlocale:eq:en_CA,en_US&limit.q3=1&resource.q4=reviews&filter.q4=productid:eq:607710046931&filter.q4=isratingsonly:eq:false&filter.q4=issyndicated:eq:false&filter.q4=rating:lte:3&filter.q4=totalpositivefeedbackcount:gte:3&filter.q4=contentlocale:eq:en_CA,en_US&sort.q4=totalpositivefeedbackcount:desc&include.q4=authors,reviews,products&filter_reviews.q4=contentlocale:eq:en_CA,en_US&limit.q4=1&callback=BV._internal.dataHandler0
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: response_headers:
+ Date: Fri, 14 Jul 2017 13:57:32 GMT
+Content-Type: application/javascript
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Server: nginx/1.10.2
+Vary: Accept-Encoding
+X-Bazaarvoice-Api-Version: 5.5
+X-Bazaarvoice-Platform-Version: 2
+X-Bazaarvoice-QPS-Allotted: 100
+X-Bazaarvoice-QPS-Current: 1
+X-Bazaarvoice-QPM-Allotted: 6000
+X-Bazaarvoice-QPM-Current: 7
+X-Bazaarvoice-Quota-Allotted: 7200000
+X-Bazaarvoice-Quota-Current: 607
+X-Bazaarvoice-Quota-Reset: 2017-07-14T14:00:00.000Z
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://api.bazaarvoice.com/data/batch.json?passkey=tsuy5y50qf1vuapwn42ip8f8h&apiversion=5.5&displaycode=12438-en_ca&resource.q0=reviews&filter.q0=isratingsonly:eq:false&filter.q0=productid:eq:607710046931&filter.q0=contentlocale:eq:en_CA,en_US&sort.q0=relevancy:a1&stats.q0=reviews&filteredstats.q0=reviews&include.q0=authors,products,comments&filter_reviews.q0=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q0=contentlocale:eq:en_CA,en_US&filter_comments.q0=contentlocale:eq:en_CA,en_US&limit.q0=30&offset.q0=8&limit_comments.q0=3
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: response_headers:
+ Date: Fri, 14 Jul 2017 13:57:34 GMT
+Content-Type: application/json;charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Server: nginx/1.10.2
+Vary: Accept-Encoding
+X-Bazaarvoice-Api-Version: 5.5
+X-Bazaarvoice-Platform-Version: 2
+X-Bazaarvoice-QPS-Allotted: 100
+X-Bazaarvoice-QPS-Current: 1
+X-Bazaarvoice-QPM-Allotted: 6000
+X-Bazaarvoice-QPM-Current: 24
+X-Bazaarvoice-Quota-Allotted: 7200000
+X-Bazaarvoice-Quota-Current: 591
+X-Bazaarvoice-Quota-Reset: 2017-07-14T14:00:00.000Z
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://api.bazaarvoice.com/data/batch.json?passkey=tsuy5y50qf1vuapwn42ip8f8h&apiversion=5.5&displaycode=12438-en_ca&resource.q0=reviews&filter.q0=isratingsonly:eq:false&filter.q0=productid:eq:607710046931&filter.q0=contentlocale:eq:en_CA,en_US&sort.q0=relevancy:a1&stats.q0=reviews&filteredstats.q0=reviews&include.q0=authors,products,comments&filter_reviews.q0=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q0=contentlocale:eq:en_CA,en_US&filter_comments.q0=contentlocale:eq:en_CA,en_US&limit.q0=30&offset.q0=38&limit_comments.q0=3
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: response_headers:
+ Date: Fri, 14 Jul 2017 13:57:36 GMT
+Content-Type: application/json;charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Server: nginx/1.10.2
+Vary: Accept-Encoding
+X-Bazaarvoice-Api-Version: 5.5
+X-Bazaarvoice-Platform-Version: 2
+X-Bazaarvoice-QPS-Allotted: 100
+X-Bazaarvoice-QPS-Current: 1
+X-Bazaarvoice-QPM-Allotted: 6000
+X-Bazaarvoice-QPM-Current: 14
+X-Bazaarvoice-Quota-Allotted: 7200000
+X-Bazaarvoice-Quota-Current: 589
+X-Bazaarvoice-Quota-Reset: 2017-07-14T14:00:00.000Z
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://api.bazaarvoice.com/data/batch.json?passkey=tsuy5y50qf1vuapwn42ip8f8h&apiversion=5.5&displaycode=12438-en_ca&resource.q0=products&filter.q0=id:eq:604214919006&stats.q0=reviews&filteredstats.q0=reviews&filter_reviews.q0=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q0=contentlocale:eq:en_CA,en_US&resource.q1=reviews&filter.q1=isratingsonly:eq:false&filter.q1=productid:eq:604214919006&filter.q1=contentlocale:eq:en_CA,en_US&sort.q1=relevancy:a1&stats.q1=reviews&filteredstats.q1=reviews&include.q1=authors,products,comments&filter_reviews.q1=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q1=contentlocale:eq:en_CA,en_US&filter_comments.q1=contentlocale:eq:en_CA,en_US&limit.q1=8&offset.q1=0&limit_comments.q1=3&resource.q2=reviews&filter.q2=productid:eq:604214919006&filter.q2=contentlocale:eq:en_CA,en_US&limit.q2=1&resource.q3=reviews&filter.q3=productid:eq:604214919006&filter.q3=isratingsonly:eq:false&filter.q3=issyndicated:eq:false&filter.q3=rating:gt:3&filter.q3=totalpositivefeedbackcount:gte:3&filter.q3=contentlocale:eq:en_CA,en_US&sort.q3=totalpositivefeedbackcount:desc&include.q3=authors,reviews,products&filter_reviews.q3=contentlocale:eq:en_CA,en_US&limit.q3=1&resource.q4=reviews&filter.q4=productid:eq:604214919006&filter.q4=isratingsonly:eq:false&filter.q4=issyndicated:eq:false&filter.q4=rating:lte:3&filter.q4=totalpositivefeedbackcount:gte:3&filter.q4=contentlocale:eq:en_CA,en_US&sort.q4=totalpositivefeedbackcount:desc&include.q4=authors,reviews,products&filter_reviews.q4=contentlocale:eq:en_CA,en_US&limit.q4=1&callback=BV._internal.dataHandler0
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: response_headers:
+ Date: Fri, 14 Jul 2017 13:57:38 GMT
+Content-Type: application/javascript
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Server: nginx/1.10.2
+Vary: Accept-Encoding
+X-Bazaarvoice-Api-Version: 5.5
+X-Bazaarvoice-Platform-Version: 2
+X-Bazaarvoice-QPS-Allotted: 100
+X-Bazaarvoice-QPS-Current: 1
+X-Bazaarvoice-QPM-Allotted: 6000
+X-Bazaarvoice-QPM-Current: 8
+X-Bazaarvoice-Quota-Allotted: 7200000
+X-Bazaarvoice-Quota-Current: 663
+X-Bazaarvoice-Quota-Reset: 2017-07-14T14:00:00.000Z
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://api.bazaarvoice.com/data/batch.json?passkey=tsuy5y50qf1vuapwn42ip8f8h&apiversion=5.5&displaycode=12438-en_ca&resource.q0=reviews&filter.q0=isratingsonly:eq:false&filter.q0=productid:eq:604214919006&filter.q0=contentlocale:eq:en_CA,en_US&sort.q0=relevancy:a1&stats.q0=reviews&filteredstats.q0=reviews&include.q0=authors,products,comments&filter_reviews.q0=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q0=contentlocale:eq:en_CA,en_US&filter_comments.q0=contentlocale:eq:en_CA,en_US&limit.q0=30&offset.q0=8&limit_comments.q0=3
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: response_headers:
+ Date: Fri, 14 Jul 2017 13:57:40 GMT
+Content-Type: application/json;charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+Content-Encoding: gzip
+Server: nginx/1.10.2
+Vary: Accept-Encoding
+X-Bazaarvoice-Api-Version: 5.5
+X-Bazaarvoice-Platform-Version: 2
+X-Bazaarvoice-QPS-Allotted: 100
+X-Bazaarvoice-QPS-Current: 1
+X-Bazaarvoice-QPM-Allotted: 6000
+X-Bazaarvoice-QPM-Current: 19
+X-Bazaarvoice-Quota-Allotted: 7200000
+X-Bazaarvoice-Quota-Current: 621
+X-Bazaarvoice-Quota-Reset: 2017-07-14T14:00:00.000Z
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: loading https://api.bazaarvoice.com/data/batch.json?passkey=tsuy5y50qf1vuapwn42ip8f8h&apiversion=5.5&displaycode=12438-en_ca&resource.q0=reviews&filter.q0=isratingsonly:eq:false&filter.q0=productid:eq:604214919006&filter.q0=contentlocale:eq:en_CA,en_US&sort.q0=relevancy:a1&stats.q0=reviews&filteredstats.q0=reviews&include.q0=authors,products,comments&filter_reviews.q0=contentlocale:eq:en_CA,en_US&filter_reviewcomments.q0=contentlocale:eq:en_CA,en_US&filter_comments.q0=contentlocale:eq:en_CA,en_US&limit.q0=30&offset.q0=38&limit_comments.q0=3
+
+2017-07-14 09:57 - scrapex.http - http - fetch_data() - DEBUG: request headers:
+{'Connection': 'keep-alive', 'Accept-Language': 'en-us,en;q=0.5', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2'}

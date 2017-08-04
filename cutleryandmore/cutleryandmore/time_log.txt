@@ -1,0 +1,6 @@
+ 
+ 'downloader/request_count': 2003,
+ 'item_scraped_count': 2899,
+ 'start_time': datetime.datetime(2017, 6, 12, 9, 26, 27, 711127)
+ 'finish_time': datetime.datetime(2017, 6, 12, 9, 33, 10, 714604),
+ 'time_period' : about 7 min

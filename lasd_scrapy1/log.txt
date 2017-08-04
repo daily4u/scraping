@@ -1,0 +1,46 @@
+2017-06-20 14:35:05,957 - scrapex.core - __init__() - INFO: start
+2017-06-20 14:35:05,959 - scrapex.core - __init__() - INFO: Selected proxy -> [u'23.19.155.193:8080']
+2017-06-20 14:35:05,960 - scrapex.core - <module>() - INFO: http://app5.lasd.org/iic/
+2017-06-20 14:35:06,062 - scrapex.http - fetch_data() - DEBUG: loading http://app5.lasd.org/iic/
+2017-06-20 14:35:09,403 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,403 - scrapex.core - __del__() - INFO: time elapsed: 0.0 minutes
+2017-06-20 14:35:09,404 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,404 - scrapex.core - __del__() - INFO: time elapsed: 0.0 minutes
+2017-06-20 14:35:09,404 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,404 - scrapex.core - __del__() - INFO: time elapsed: 0.0 minutes
+2017-06-20 14:35:09,404 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,405 - scrapex.core - __del__() - INFO: time elapsed: 1.0 minutes
+2017-06-20 14:35:09,405 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,405 - scrapex.core - __del__() - INFO: time elapsed: 1.0 minutes
+2017-06-20 14:35:09,405 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,405 - scrapex.core - __del__() - INFO: time elapsed: 1.0 minutes
+2017-06-20 14:35:09,406 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,406 - scrapex.core - __del__() - INFO: time elapsed: 1.0 minutes
+2017-06-20 14:35:09,406 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,406 - scrapex.core - __del__() - INFO: time elapsed: 5.0 minutes
+2017-06-20 14:35:09,406 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,406 - scrapex.core - __del__() - INFO: time elapsed: 6.0 minutes
+2017-06-20 14:35:09,407 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,407 - scrapex.core - __del__() - INFO: time elapsed: 6.0 minutes
+2017-06-20 14:35:09,407 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,407 - scrapex.core - __del__() - INFO: time elapsed: 6.0 minutes
+2017-06-20 14:35:09,408 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,408 - scrapex.core - __del__() - INFO: time elapsed: 6.0 minutes
+2017-06-20 14:35:09,408 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,408 - scrapex.core - __del__() - INFO: time elapsed: 6.0 minutes
+2017-06-20 14:35:09,408 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,409 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,409 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,409 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,409 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,409 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,410 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,410 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,410 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,410 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,410 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,410 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,411 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,411 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes
+2017-06-20 14:35:09,411 - scrapex.core - __del__() - INFO: Completed successfully
+2017-06-20 14:35:09,411 - scrapex.core - __del__() - INFO: time elapsed: 7.0 minutes

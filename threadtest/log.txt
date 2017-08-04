@@ -1,0 +1,19 @@
+2017-07-02 23:20 - scrapex.core - core - __init__() - INFO: start
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/url {"url": "https://google.com", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd"}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/element {"using": "xpath", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd", "value": "//input[@id=\"lst-ib\"]"}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/element {"using": "xpath", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd", "value": "//input[@id='lst-ib']"}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/element/0.703564626648332-1/value {"text": "What is my ip", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd", "id": "0.703564626648332-1", "value": ["W", "h", "a", "t", " ", "i", "s", " ", "m", "y", " ", "i", "p"]}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/element {"using": "xpath", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd", "value": "//input[@id='lst-ib']"}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/element/0.703564626648332-1/value {"text": "\ue006", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd", "id": "0.703564626648332-1", "value": ["\ue006"]}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/element {"using": "xpath", "sessionId": "4a7bcf37042634b476693de6d4e5e9bd", "value": "//*[contains(text(),\"Your public IP address\")]"}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: GET http://127.0.0.1:51568/session/4a7bcf37042634b476693de6d4e5e9bd/source {"sessionId": "4a7bcf37042634b476693de6d4e5e9bd"}
+2017-07-02 23:20 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-02 23:20 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-02 23:20 - scrapex.core - core - __del__() - INFO: time elapsed: 13.1 seconds

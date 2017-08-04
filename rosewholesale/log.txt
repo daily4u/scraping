@@ -1,0 +1,3 @@
+2017-08-03 16:52 - scrapex.core - core - __init__() - INFO: start
+2017-08-03 16:52 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-08-03 16:52 - scrapex.core - core - __del__() - INFO: time elapsed: 0.06 seconds

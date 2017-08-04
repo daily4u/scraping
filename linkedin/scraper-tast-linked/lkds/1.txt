@@ -1,0 +1,102 @@
+======= Start ========
+<scrapy.http.cookies.CookieJar object at 0x7f9781287e50>
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 11:59:57 GMT'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27
+<POST https://search.google.com/structured-data/testing-tool/validate>
+200
+%27
+)]}'
+{"cse":[],"isRendered":false,"tripleGroups":[],"numObjects":0,"html":"","errors":[],"totalNumErrors":0,"totalNumWarnings":0,"isValidForVoiceActions":false,"voiceActionsWriteAttempted":false,"voiceActionsWriteSuccessful":false,"isAppCardValidation":false,"isAtomXmlValidation":false}
+====== Get Data =======
+======= Start ========
+<scrapy.http.cookies.CookieJar object at 0x7f9767ea0e50>
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 12:30:06 GMT'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27
+<POST https://search.google.com/structured-data/testing-tool/validate>
+200
+%27
+)]}'
+{"cse":[],"isRendered":false,"tripleGroups":[],"numObjects":0,"html":"","errors":[],"totalNumErrors":0,"totalNumWarnings":0,"isValidForVoiceActions":false,"voiceActionsWriteAttempted":false,"voiceActionsWriteSuccessful":false,"isAppCardValidation":false,"isAtomXmlValidation":false}
+====== Get Data =======
+======= Start ========
+<scrapy.http.cookies.CookieJar object at 0x7fc7aa4f9e50>
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 12:30:39 GMT'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27%27akron%27%27-art-centre
+<POST https://search.google.com/structured-data/testing-tool/validate>
+200
+%27
+)]}'
+{"cse":[],"isRendered":false,"tripleGroups":[],"numObjects":0,"html":"","errors":[],"totalNumErrors":0,"totalNumWarnings":0,"isValidForVoiceActions":false,"voiceActionsWriteAttempted":false,"voiceActionsWriteSuccessful":false,"isAppCardValidation":false,"isAtomXmlValidation":false}
+====== Get Data =======
+======= Start ========
+<scrapy.http.cookies.CookieJar object at 0x7f4db758fe50>
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 12:31:20 GMT'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27%27akron%27%27-art-centre
+<POST https://search.google.com/structured-data/testing-tool/validate>
+200
+%27
+)]}'
+{"cse":[],"isRendered":false,"tripleGroups":[],"numObjects":0,"html":"","errors":[],"totalNumErrors":0,"totalNumWarnings":0,"isValidForVoiceActions":false,"voiceActionsWriteAttempted":false,"voiceActionsWriteSuccessful":false,"isAppCardValidation":false,"isAtomXmlValidation":false}
+====== Get Data =======
+======= Start ========
+<scrapy.http.cookies.CookieJar object at 0x7f11939dda50>
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 12:32:12 GMT'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27%27akron%27%27-art-centre
+<POST https://search.google.com/structured-data/testing-tool/validate>
+200
+%27
+)]}'
+{"cse":[],"isRendered":false,"tripleGroups":[],"numObjects":0,"html":"","errors":[],"totalNumErrors":0,"totalNumWarnings":0,"isValidForVoiceActions":false,"voiceActionsWriteAttempted":false,"voiceActionsWriteSuccessful":false,"isAppCardValidation":false,"isAtomXmlValidation":false}
+====== Get Data =======
+======= Start ========
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 12:33:11 GMT'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27%27akron%27%27-art-centre
+<POST https://search.google.com/structured-data/testing-tool/validate>
+200
+%27
+)]}'
+{"cse":[],"isRendered":false,"tripleGroups":[],"numObjects":0,"html":"","errors":[],"totalNumErrors":0,"totalNumWarnings":0,"isValidForVoiceActions":false,"voiceActionsWriteAttempted":false,"voiceActionsWriteSuccessful":false,"isAppCardValidation":false,"isAtomXmlValidation":false}
+====== Get Data =======
+url https://search.google.com/structured-data/testing-tool/u/0/
+method GET
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body None
+======= Start ========
+{'X-Xss-Protection': ['1; mode=block'], 'X-Content-Type-Options': ['nosniff'], 'Set-Cookie': ['NID=108=rtl6OCSHHZHHf1vAnCE9QjvmAjJ9OJJKBTi1_yIpWaslkFAWTNR1urWm4shRB98HfhiYzGieGZMDrKQ9NxjRxtmEya19P07m3Nqpx2wccbDtNNmyhUDSjypOCQInyfIZ;Domain=.google.com;Path=/;Expires=Fri, 19-Jan-2018 13:52:27 GMT;HttpOnly'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 13:52:27 GMT'], 'P3P': ['CP="This is not a P3P policy! See https://support.google.com/accounts/answer/151657?hl=en for more info."'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['text/html; charset=utf-8']}
+{'SESSION_ID': '108'}
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27
+{}
+NID=108=rtl6OCSHHZHHf1vAnCE9QjvmAjJ9OJJKBTi1_yIpWaslkFAWTNR1urWm4shRB98HfhiYzGieGZMDrKQ9NxjRxtmEya19P07m3Nqpx2wccbDtNNmyhUDSjypOCQInyfIZ
+<POST https://search.google.com/structured-data/testing-tool/validate>
+url https://search.google.com/structured-data/testing-tool/validate
+method POST
+headers {'Host': 'search.google.com', 'Connection': 'keep-alive', 'Accept-Language': 'en-US,en;q=0.5', 'Accept-Encoding': 'gzip, deflate, br', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
+body url=https://www.linkedin.com/company/%27%27-connemara-&amp;-co%27%27-limited
+{}
+NID=108=rtl6OCSHHZHHf1vAnCE9QjvmAjJ9OJJKBTi1_yIpWaslkFAWTNR1urWm4shRB98HfhiYzGieGZMDrKQ9NxjRxtmEya19P07m3Nqpx2wccbDtNNmyhUDSjypOCQInyfIZ
+<POST https://search.google.com/structured-data/testing-tool/validate>
+{'X-Xss-Protection': ['1; mode=block'], 'Content-Disposition': ['attachment; filename="json.txt"; filename*=UTF-8\'\'json.txt'], 'X-Content-Type-Options': ['nosniff'], 'Set-Cookie': ['NID=108=POln-kPiwiYf2u58Xi7_jCYjFYIqd--BSQ4v8tdnHHjiyxuIQ19e6kGorC0RuhZomnJkONiLvW6KasD6-PwQgfU6Dk0D-fZygOFwL56Wdp7d5WGkmTfG_IdCz2csgrxW;Domain=.google.com;Path=/;Expires=Fri, 19-Jan-2018 13:53:08 GMT;HttpOnly'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 13:53:08 GMT'], 'P3P': ['CP="This is not a P3P policy! See https://support.google.com/accounts/answer/151657?hl=en for more info."'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['application/json; charset=utf-8'], 'X-Frame-Options': ['SAMEORIGIN']}
+====== Get Data =======
+{'X-Xss-Protection': ['1; mode=block'], 'Content-Disposition': ['attachment; filename="json.txt"; filename*=UTF-8\'\'json.txt'], 'X-Content-Type-Options': ['nosniff'], 'Set-Cookie': ['NID=108=padj6b6ptDAVD-TJcTBJE5aIHLciAUCRmY-yOYfDmk3bZ2WOucnXtP4gLimFl-Gy1FKabpK0vECMsWjakUwKbJbUsR4cskHS-rVtElRGAlCtfAotXV-jFgRoqKCTEe9F;Domain=.google.com;Path=/;Expires=Fri, 19-Jan-2018 13:53:10 GMT;HttpOnly'], 'Expires': ['Mon, 01 Jan 1990 00:00:00 GMT'], 'Server': ['GSE'], 'Pragma': ['no-cache'], 'Cache-Control': ['no-cache, no-store, max-age=0, must-revalidate'], 'Date': ['Thu, 20 Jul 2017 13:53:10 GMT'], 'P3P': ['CP="This is not a P3P policy! See https://support.google.com/accounts/answer/151657?hl=en for more info."'], 'Alt-Svc': ['quic=":443"; ma=2592000; v="39,38,37,36,35"'], 'Content-Type': ['application/json; charset=utf-8'], 'X-Frame-Options': ['SAMEORIGIN']}
+====== Get Data =======

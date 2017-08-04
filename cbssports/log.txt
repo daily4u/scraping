@@ -1,0 +1,18 @@
+2017-07-08 14:40 - scrapex.core - core - __init__() - INFO: start
+2017-07-08 14:40 - scrapex.http - http - fetch_data() - DEBUG: loading http://www.cbssports.com/golf/schedules/web-tour
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 0.98 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 1.92 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 2.93 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 2.99 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 3.05 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 3.54 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 3.79 seconds
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-08 14:40 - scrapex.core - core - __del__() - INFO: time elapsed: 4.77 seconds

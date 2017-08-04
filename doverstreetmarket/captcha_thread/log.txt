@@ -1,0 +1,24 @@
+2017-07-13 10:42 - scrapex.core - core - __init__() - INFO: start
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading https://shop.doverstreetmarket.com/customer/account/login/referer/aHR0cDovL3Nob3AuZG92ZXJzdHJlZXRtYXJrZXQuY29tLw,,/
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/in.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/in.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/in.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:42 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 10:43 - scrapex.http - http - fetch_data() - DEBUG: loading http://2captcha.com/res.php
+2017-07-13 11:35 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-13 11:35 - scrapex.core - core - __del__() - INFO: time elapsed: 53.0 minutes 10.49 seconds

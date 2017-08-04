@@ -1,0 +1,17 @@
+2017-07-05 22:30 - scrapex.core - core - __init__() - INFO: start
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:48987/session {"capabilities": {"alwaysMatch": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}, "firstMatch": []}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:48987/session/1cb97cb88b992e7982b2f4d219dac9e6/url {"url": "https://app.clickfunnels.com/for_domain/denmurphy.clickfunnels.com/optin14932131?updated_at=ca7ac4de2fdf73792ecc8bee08a6e8d5v2&track=0&preview=true", "sessionId": "1cb97cb88b992e7982b2f4d219dac9e6"}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:48987/session/1cb97cb88b992e7982b2f4d219dac9e6/element {"using": "name", "sessionId": "1cb97cb88b992e7982b2f4d219dac9e6", "value": "email"}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:48987/session/1cb97cb88b992e7982b2f4d219dac9e6/element/0.3936994542557497-1/value {"text": "john@gmail.com", "sessionId": "1cb97cb88b992e7982b2f4d219dac9e6", "id": "0.3936994542557497-1", "value": ["j", "o", "h", "n", "@", "g", "m", "a", "i", "l", ".", "c", "o", "m"]}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:48987/session/1cb97cb88b992e7982b2f4d219dac9e6/element {"using": "name", "sessionId": "1cb97cb88b992e7982b2f4d219dac9e6", "value": "email"}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: POST http://127.0.0.1:48987/session/1cb97cb88b992e7982b2f4d219dac9e6/element/0.3936994542557497-1/value {"text": "\ue006", "sessionId": "1cb97cb88b992e7982b2f4d219dac9e6", "id": "0.3936994542557497-1", "value": ["\ue006"]}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: DELETE http://127.0.0.1:48987/session/1cb97cb88b992e7982b2f4d219dac9e6 {"sessionId": "1cb97cb88b992e7982b2f4d219dac9e6"}
+2017-07-05 22:30 - selenium.webdriver.remote.remote_connection - remote_connection - _request() - DEBUG: Finished Request
+2017-07-05 22:30 - scrapex.core - core - __del__() - INFO: Completed successfully
+2017-07-05 22:30 - scrapex.core - core - __del__() - INFO: time elapsed: 24.78 seconds
